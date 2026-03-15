@@ -29,7 +29,7 @@ The ride apps like uber,ola,rapido,etc wants to create an report on total rides 
 - Traffic delay affects ride efficiency
 
  ## Dashboard
- (sreenshot)Screenshot%202026-03-15%20112444.png
+ ![Dashboard screenshot](https://github.com/kavyachallagundla54-crypto/Data-analysis-dashboard/blob/main/Screenshot%202026-03-15%20112444.png)
 
   # Final conclusion
   This project helps understand ride demand patterns, fare behavior, and peak usage times. It can support better driver allocation, pricing strategy, and demand forecasting.
