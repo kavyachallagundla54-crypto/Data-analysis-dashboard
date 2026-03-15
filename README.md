@@ -1,2 +1,4 @@
-# Data-analysis-dashboard
-I developed a comprehensive project in Power BI , creating multiple dashboards to analyse the data. This process involved serval stages, including data processing , data cleaning and data visualization.
+#Ride Demand prediction Data-analysis(Interaction Dashboard creation using Power BI)
+
+##Project Objective
+The ride apps like uber,ola,rapido,etc wants to create an report on total rides and demand areas.so, they can know the  demand areas and the total no.of sufficient / insufficient of the drivers. 
