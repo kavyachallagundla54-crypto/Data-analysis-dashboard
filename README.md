@@ -15,10 +15,22 @@ The ride apps like uber,ola,rapido,etc wants to create an report on total rides 
 - compare the traffic delay with day of week.
 
 
-  -Dashboard Interaction <a href
+  -Dashboard Interaction <a href ="https://github.com/kavyachallagundla54-crypto/Data-analysis-dashboard/blob/main/Screenshot%202026-03-15%20112444.png"> Dashboard </a>
 
 ## Process
 - Verify data for any missing values and annomalies and sort out the same.
 - Made sure data is consistent and clean  with respect to datatype,dataformat and values used.
 - created the pivot tables and charties according to the questions asked.
 - created interactive dashboard using the data.
+## Project Insights
+- Peak Ride demand time
+- High Fare during peak hours
+- weekly patterns
+- Traffic delay affects ride efficiency
+
+ ## Dashboard
+ "C:\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot 2026-03-15 112444.png"
+
+  # Final conclusion
+  This project helps understand ride demand patterns, fare behavior, and peak usage times. It can support better driver allocation, pricing strategy, and demand forecasting.
+ 
